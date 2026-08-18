@@ -1,0 +1,10 @@
+print("hola mucho gusto soy E.V una IA que esta para hacerte unas preguntas.")
+heroe=input("¿cual es tu heroe favorito?\n")
+print("wow seguramente",heroe,"es un heroe fantastico")
+poderes=input("¿cuales son sus poderes\n")
+print("wow mira que bien que pueda",poderes,"che")
+villano=input("¿cuales son sus villanos o archienemigos\n")
+print("mira vos no sabia que",villano,"y",heroe,"tenian esa rivalidad")
+comic=input("¿cual es tu comic favorito de e?")
+print("fuaa que buen tomo es",comic,"de los mejores a mi parecer")
+
